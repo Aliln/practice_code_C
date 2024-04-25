@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\My practice code\\test_C\\test_4_25\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{537F6A54-7070-41C4-9FCA-E4CC50769E40}|test_4_25\\test_4_25.vcxproj|E:\\My practice code\\test_C\\test_4_25\\test_4_25\\squrlist.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{537F6A54-7070-41C4-9FCA-E4CC50769E40}|test_4_25\\test_4_25.vcxproj|solutionrelative:test_4_25\\squrlist.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "squrlist.cpp",
+              "DocumentMoniker": "E:\\My practice code\\test_C\\test_4_25\\test_4_25\\squrlist.cpp",
+              "RelativeDocumentMoniker": "test_4_25\\squrlist.cpp",
+              "ToolTip": "E:\\My practice code\\test_C\\test_4_25\\test_4_25\\squrlist.cpp",
+              "RelativeToolTip": "test_4_25\\squrlist.cpp",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAD8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-25T14:09:23.572Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
